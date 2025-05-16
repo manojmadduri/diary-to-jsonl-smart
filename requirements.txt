@@ -1,0 +1,11 @@
+nltk
+dateparser
+sentence-transformers
+scikit-learn
+transformers
+numpy
+datasets
+peft
+bitsandbytes
+accelerate
+
